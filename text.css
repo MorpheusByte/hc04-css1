@@ -13,15 +13,18 @@ text-align: right;
 
 .par1{
     text-align: justify;
+    column-count: 3;
+    column-rule: 2px solid blue;
 }
 
 .par3{
-    
+    text-transform: capitalize;
 }
 
 .par4{
     text-indent: 10px;
     text-decoration: line-through;
+    text-transform: uppercase;
 }
 
 .par5{
@@ -31,5 +34,7 @@ text-align: right;
     line-height: 1.5px;
 }
 .par7{
-    
+    text-shadow: 5px 5px 5px red;
+    direction: rtl;
+    unicode-bidi: bidi-override;
 }
