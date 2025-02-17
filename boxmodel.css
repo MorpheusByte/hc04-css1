@@ -5,6 +5,7 @@
 }
 
 #container{
+    display: flex;
 background-color: aqua;
 }
 .div1{
@@ -28,6 +29,6 @@ margin-top: 10px;
 }
 .center{
     background-color: red;
-    
+
     margin: auto;
 }
