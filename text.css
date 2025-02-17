@@ -1,0 +1,35 @@
+h1{
+    color: red;
+}
+.container{
+color: blue;
+text-align: center;
+
+}
+
+.par2{
+text-align: right;
+}
+
+.par1{
+    text-align: justify;
+}
+
+.par3{
+    
+}
+
+.par4{
+    text-indent: 10px;
+    text-decoration: line-through;
+}
+
+.par5{
+    text-decoration: underline wavy;
+}
+.par6{
+    line-height: 1.5px;
+}
+.par7{
+    
+}
